@@ -24,6 +24,6 @@ Route::get('cat', function (){
     return response()->json($user);
 
 });
-
+//update route
 
 
